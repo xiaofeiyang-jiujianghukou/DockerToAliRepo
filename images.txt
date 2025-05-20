@@ -1,4 +1,5 @@
-nginx
-mysql
-redis
-python
+#nginx
+#mysql
+#redis
+#python
+nacos
