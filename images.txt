@@ -2,4 +2,4 @@
 #mysql
 #redis
 #python
-nacos
+nacos/nacos-server
