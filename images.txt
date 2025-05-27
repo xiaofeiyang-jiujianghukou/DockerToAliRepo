@@ -3,4 +3,5 @@
 #redis
 #python
 #nacos/nacos-server
-gitlab/gitlab-ce:latest
+#gitlab/gitlab-ce:latest
+ghcr.io/danielra/obsidian-web:latest
