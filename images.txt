@@ -9,4 +9,5 @@
 #minio/minio
 #machines/filestash
 #jeessy/ddns-go
-traefik
+#traefik
+nextcloud
