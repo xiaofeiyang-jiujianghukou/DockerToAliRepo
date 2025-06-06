@@ -5,4 +5,5 @@
 #nacos/nacos-server
 #gitlab/gitlab-ce:latest
 #ghcr.io/danielra/obsidian-web:latest
-b3log/siyuan
+#b3log/siyuan
+minio
