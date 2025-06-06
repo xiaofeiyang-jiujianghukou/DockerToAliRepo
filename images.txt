@@ -6,4 +6,5 @@
 #gitlab/gitlab-ce:latest
 #ghcr.io/danielra/obsidian-web:latest
 #b3log/siyuan
-minio/minio
+#minio/minio
+machines/filestash
