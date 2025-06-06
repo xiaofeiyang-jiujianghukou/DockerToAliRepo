@@ -9,4 +9,4 @@
 #minio/minio
 #machines/filestash
 #jeessy/ddns-go
-traefik:latest
+traefik
