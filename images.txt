@@ -8,4 +8,5 @@
 #b3log/siyuan
 #minio/minio
 #machines/filestash
-jeessy/ddns-go
+#jeessy/ddns-go
+traefik:latest
