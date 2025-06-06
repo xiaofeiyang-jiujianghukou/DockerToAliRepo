@@ -7,4 +7,5 @@
 #ghcr.io/danielra/obsidian-web:latest
 #b3log/siyuan
 #minio/minio
-machines/filestash
+#machines/filestash
+jeessy/ddns-go
