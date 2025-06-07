@@ -10,5 +10,6 @@
 #machines/filestash
 #jeessy/ddns-go
 #traefik
-nextcloud
-adminer
+#nextcloud
+#adminer
+minio/console
