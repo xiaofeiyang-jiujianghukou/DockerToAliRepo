@@ -11,3 +11,4 @@
 #jeessy/ddns-go
 #traefik
 nextcloud
+adminer
