@@ -12,4 +12,4 @@
 #traefik
 #nextcloud
 #adminer
-minio/console
+minio/console:latest
