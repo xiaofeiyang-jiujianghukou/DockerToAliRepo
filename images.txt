@@ -12,4 +12,5 @@
 #traefik
 #nextcloud
 #adminer
-minio/console:latest
+#minio/console:latest
+openspug/spug-service
