@@ -14,6 +14,7 @@
 #adminer
 #minio/console:latest
 #openspug/spug-service
-jumpserver/jms_all
-jumpserver/jms_koko
-jumpserver/jms_lion
+#jumpserver/jms_all
+#jumpserver/jms_koko
+#jumpserver/jms_lion
+1panel/maxkb
