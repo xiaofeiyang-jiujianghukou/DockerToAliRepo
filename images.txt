@@ -17,4 +17,5 @@
 #jumpserver/jms_all
 #jumpserver/jms_koko
 #jumpserver/jms_lion
-1panel/maxkb
+#1panel/maxkb
+postgres
