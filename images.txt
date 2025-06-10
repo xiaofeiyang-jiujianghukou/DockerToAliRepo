@@ -13,4 +13,7 @@
 #nextcloud
 #adminer
 #minio/console:latest
-openspug/spug-service
+#openspug/spug-service
+jumpserver/jms_all
+jumpserver/jms_koko
+jumpserver/jms_lion
