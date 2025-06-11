@@ -19,4 +19,5 @@
 #jumpserver/jms_lion
 #1panel/maxkb
 #postgres
-hhyo/archery
+#hhyo/archery
+docker.elastic.co/elasticsearch/elasticsearch
