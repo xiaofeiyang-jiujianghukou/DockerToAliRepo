@@ -20,4 +20,4 @@
 #1panel/maxkb
 #postgres
 #hhyo/archery
-elasticsearch/elasticsearch
+docker.elastic.co/elasticsearch/elasticsearch:8.13.4
