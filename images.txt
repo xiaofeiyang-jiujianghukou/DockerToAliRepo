@@ -23,4 +23,5 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.13.4
 #docker.elastic.co/elasticsearch/elasticsearch:9.0.2
 #docker.elastic.co/kibana/kibana:9.0.2
-docker.elastic.co/logstash/logstash:9.0.2
+#docker.elastic.co/logstash/logstash:9.0.2
+docker.elastic.co/beats/filebeat
