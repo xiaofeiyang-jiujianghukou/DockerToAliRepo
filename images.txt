@@ -25,4 +25,4 @@
 #docker.elastic.co/kibana/kibana:9.0.2
 #docker.elastic.co/logstash/logstash:9.0.2
 #docker.elastic.co/beats/filebeat:9.0.2
-xxl-job-admin
+xxl-job-admin:3.1.0
