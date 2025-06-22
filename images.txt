@@ -35,4 +35,6 @@
 #apache/skywalking-ui
 #nacos/nacos-server
 #prom/prometheus
-prom/mysqld-exporter
+#prom/mysqld-exporter
+eclipse-temurin:17-jdk-alpine
+
