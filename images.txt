@@ -34,4 +34,5 @@
 #apache/skywalking-oap-server
 #apache/skywalking-ui
 #nacos/nacos-server
-prom/prometheus
+#prom/prometheus
+prom/mysqld-exporter
