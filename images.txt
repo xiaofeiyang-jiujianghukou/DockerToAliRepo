@@ -33,4 +33,5 @@
 #grafana/grafana:latest
 #apache/skywalking-oap-server
 #apache/skywalking-ui
-nacos/nacos-server
+#nacos/nacos-server
+prom/prometheus
