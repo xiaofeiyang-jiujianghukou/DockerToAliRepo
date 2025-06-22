@@ -31,5 +31,6 @@
 #atlassian/confluence:9.3.1-ubuntu-jdk21
 #atlassian/confluence-server:8.6-ubuntu-jdk17
 #grafana/grafana:latest
-apache/skywalking-oap-server
-apache/skywalking-ui
+#apache/skywalking-oap-server
+#apache/skywalking-ui
+nacos/nacos-server
