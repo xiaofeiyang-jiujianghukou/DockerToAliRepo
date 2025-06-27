@@ -1,3 +1,4 @@
+cars10/elasticvue
 #nginx
 #mysql
 #redis
@@ -36,5 +37,5 @@
 #nacos/nacos-server
 #prom/prometheus
 #prom/mysqld-exporter
-eclipse-temurin:17-jdk-alpine
+#eclipse-temurin:17-jdk-alpine
 
