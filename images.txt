@@ -1,4 +1,5 @@
-cars10/elasticvue
+atlassian/confluence:9.2.6-ubuntu-jdk17
+#cars10/elasticvue
 #nginx
 #mysql
 #redis
