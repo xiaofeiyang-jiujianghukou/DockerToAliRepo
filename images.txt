@@ -4,8 +4,10 @@
 #atlassian/confluence:9.2.6-ubuntu-jdk17
 #cars10/elasticvue
 #nginx
-mysql
-redis
+#mysql
+#redis
+mysql:8.0
+redis:7
 #python
 #nacos/nacos-server
 #gitlab/gitlab-ce:latest
