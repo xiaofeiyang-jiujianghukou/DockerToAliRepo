@@ -1,7 +1,8 @@
-confluentinc/cp-zookeeper:7.5.0
-confluentinc/cp-kafka:7.5.0
-clickhouse/clickhouse-server:23
-flink:1.18
+flink:1.18.1-scala_2.12
+#confluentinc/cp-zookeeper:7.5.0
+#confluentinc/cp-kafka:7.5.0
+#clickhouse/clickhouse-server:23
+#flink:1.18
 #minio/minio:latest
 #redis:7-alpine
 #pgvector/pgvector:pg17
