@@ -1,5 +1,6 @@
-node:20
-nginx:alpine
+rabbitmq:4.2.5-management-alpine
+#node:20
+#nginx:alpine
 #maven:3.9-eclipse-temurin-25
 #eclipse-temurin:25-jre-alpine
 #flink:1.18-scala_2.12-java17
