@@ -1,6 +1,6 @@
-flowable/flowable-ui:6.8.0
+#flowable/flowable-ui:6.8.0
 #node:24-alpine
-#nacos/nacos-server:v2.2.3
+nacos/nacos-server:v2.5.1
 #apache/rocketmq:5.3.1
 #canal/canal-server:v1.1.8
 #postgres:16-alpine
