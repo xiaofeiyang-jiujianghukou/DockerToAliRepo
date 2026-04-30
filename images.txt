@@ -1,4 +1,4 @@
-flowable/flowable-ui:6.8.1
+flowable/flowable-ui:6.8.0
 #node:24-alpine
 #nacos/nacos-server:v2.2.3
 #apache/rocketmq:5.3.1
