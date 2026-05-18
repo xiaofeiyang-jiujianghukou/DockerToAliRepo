@@ -1,4 +1,5 @@
-sonatype/nexus3:latest
+curlimages/curl:latest
+#sonatype/nexus3:latest
 #flowable/flowable-ui:6.8.0
 #node:24-alpine
 #nacos/nacos-server:v2.5.1
