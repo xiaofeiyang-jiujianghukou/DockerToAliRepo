@@ -1,5 +1,6 @@
-datalabto/chandra-ocr:v0.2.1-web
-datalabto/chandra-ocr:v0.2.1-hf
+boringcat/wechat:work
+#datalabto/chandra-ocr:v0.2.1-web
+#datalabto/chandra-ocr:v0.2.1-hf
 #traefik:v3.7.1
 #curlimages/curl:latest
 #sonatype/nexus3:latest
