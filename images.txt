@@ -1,4 +1,5 @@
-boringcat/wechat:work
+laoyutang/clash-and-dashboard:latest
+#boringcat/wechat:work
 #datalabto/chandra-ocr:v0.2.1-web
 #datalabto/chandra-ocr:v0.2.1-hf
 #traefik:v3.7.1
