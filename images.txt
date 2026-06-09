@@ -1,4 +1,5 @@
-laoyutang/clash-and-dashboard:latest
+metacubex/mihomo:latest
+#laoyutang/clash-and-dashboard:latest
 #boringcat/wechat:work
 #datalabto/chandra-ocr:v0.2.1-web
 #datalabto/chandra-ocr:v0.2.1-hf
