@@ -1,4 +1,4 @@
-traefik:v3.6
+traefik:v3.7.5
 #jc21/nginx-proxy-manager:latest
 #ghost:6-alpine
 #metacubex/mihomo:latest
