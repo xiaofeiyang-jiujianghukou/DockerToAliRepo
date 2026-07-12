@@ -1,4 +1,5 @@
-nacos/nacos-server:v2.3.2
+sonatype/nexus3:3.85.0-alpine
+#nacos/nacos-server:v2.3.2
 #crossdesk/crossdesk-server:v1.1.3
 #jenkins/jenkins:lts-jdk17
 #mineru:latest
