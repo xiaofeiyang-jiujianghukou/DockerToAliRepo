@@ -1,4 +1,6 @@
-node:20-alpine 
+apache/skywalking-oap-server:10.1.0
+apache/skywalking-ui:10.1.0 
+#node:20-alpine 
 #maven:3.9-eclipse-temurin-21-alpine
 #grafana/grafana:11.6.0
 #eclipse-temurin:21-jdk-alpine
