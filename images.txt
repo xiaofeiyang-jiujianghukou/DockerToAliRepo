@@ -1,4 +1,5 @@
-prom/prometheus:v3.3.0
+eclipse-temurin:21-jdk-alpine
+#prom/prometheus:v3.3.0
 #eclipse-temurin:21-jre-alpine
 #bladex/sentinel-dashboard:1.8.8
 #sonatype/nexus3:3.85.0-alpine
