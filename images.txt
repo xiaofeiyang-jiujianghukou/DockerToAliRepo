@@ -1,4 +1,9 @@
-minio/minio:latest
+rancher/k3s:v1.31.6-k3s1
+rancher/local-path-provisioner:v0.0.30
+rancher/coredns-coredns:1.11.3
+rancher/library-traefik:3.1.6
+rancher/metrics-server:v0.7.2
+#minio/minio:latest
 #docker.elastic.co/elasticsearch/elasticsearch:8.15.0
 #apache/skywalking-oap-server:10.1.0
 apache/skywalking-ui:10.1.0 
