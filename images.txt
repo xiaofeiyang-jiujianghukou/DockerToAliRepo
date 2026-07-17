@@ -1,8 +1,9 @@
-rancher/k3s:v1.31.6-k3s1
-rancher/local-path-provisioner:v0.0.30
-rancher/mirrored-coredns-coredns:1.11.3
-rancher/mirrored-library-traefik:3.1.6
-rancher/mirrored-metrics-server:v0.7.2
+
+rancher/k3s:v1.34.9-k3s1
+rancher/local-path-provisioner:v0.0.36
+rancher/mirrored-coredns-coredns:1.14.4
+rancher/mirrored-library-traefik:3.7.7
+rancher/mirrored-metrics-server:v0.8.1
 
 #minio/minio:latest
 #docker.elastic.co/elasticsearch/elasticsearch:8.15.0
