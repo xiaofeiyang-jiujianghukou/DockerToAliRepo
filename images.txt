@@ -1,4 +1,4 @@
-rancher/k3s-tools:v1.35.5
+rancher/k3d-tools:linux-amd64
 rancher/mirrored-pause:3.6
 rancher/mirrored-coredns-coredns:1.12.1
 rancher/local-path-provisioner:v0.0.31
