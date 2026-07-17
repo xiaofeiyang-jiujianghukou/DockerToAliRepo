@@ -1,4 +1,10 @@
-rancher/k3d-tools:5.3
+registry.k8s.io/ingress-nginx/controller:v1.11.1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
+docker.elastic.co/beats/filebeat:8.15.0
+docker.elastic.co/kibana/kibana:8.15.0
+
+
+#rancher/k3d-tools:5.3
 
 #rancher/k3d-tools:linux-amd64
 #rancher/mirrored-pause:3.6
