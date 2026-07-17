@@ -1,4 +1,11 @@
-nginx:1.27-alpine
+rancher/k3s-tools:v1.35.5
+rancher/mirrored-pause:3.6
+rancher/mirrored-coredns-coredns:1.12.1
+rancher/local-path-provisioner:v0.0.31
+rancher/mirrored-metrics-server:v0.7.2
+rancher/mirrored-library-traefik:3.3.1
+
+#nginx:1.27-alpine
 
 #ghcr.io/xiaofeiyang-jiujianghukou/nexora-app:latest 
 #ghcr.io/xiaofeiyang-jiujianghukou/nexora-frontend:latest 
