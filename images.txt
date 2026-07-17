@@ -1,3 +1,4 @@
+rancher/k3s:v1.31.6-k3s1
 rancher/local-path-provisioner:v0.0.30
 rancher/mirrored-coredns-coredns:1.11.3
 rancher/mirrored-library-traefik:3.1.6
